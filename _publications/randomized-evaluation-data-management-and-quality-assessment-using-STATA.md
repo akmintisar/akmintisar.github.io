@@ -7,5 +7,5 @@ paperurl: 'https://github.com/akmintisar/randomized-evaluation-data-management-a
 
 Aimed to ensure a clean and reliable dataset for analysis. Imported, merged, and subjected to quality checks,
 including survey completion rates, time spent on surveys, and identification of missing data. Cleaned by removing
-identifiable information.
+identifiable information. [[Code]](https://github.com/akmintisar/randomized-evaluation-data-management-and-quality-assessment-using-STATA)
 
