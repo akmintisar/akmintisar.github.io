@@ -50,3 +50,5 @@ Voluntary Activities
 * Foodaholic
   * Co-founder
     * Engineered and implemented a streamlined order processing system, ensuring efficiency and accuracy in customer order management. Also, underscored adaptability in leveraging technology within resource-constrained environments, showcasing a problem-solving approach
+   
+[[Full CV]](https://drive.google.com/file/d/1NCArsrUcgn9aUPI5ccLUwCFljCzY9HSK/view?usp=sharing) 
