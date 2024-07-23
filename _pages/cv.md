@@ -52,6 +52,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Voluntary Activities
 ======
-* Currently signed in to 43 different slack teams
+* Photographic Society of RUET (PSR)
+*   Former General Secretary
+*     Planned & executed a financial strategy with creative initiatives, which now help beginner photographers and creative minds and support humanitarian causes.
