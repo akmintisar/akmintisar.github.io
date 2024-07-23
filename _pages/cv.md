@@ -55,5 +55,9 @@ Teaching
 Voluntary Activities
 ======
 * Photographic Society of RUET (PSR)
-    Former General Secretary
-      Planned & executed a financial strategy with creative initiatives, which now help beginner photographers and creative minds and support humanitarian causes.
+*   Former General Secretary
+*     Planned & executed a financial strategy with creative initiatives, which now help beginner photographers and innovative minds and support humanitarian causes.
+
+* Foodaholic
+*   Co-founder
+*     Engineered and implemented a streamlined order processing system, ensuring efficiency and accuracy in customer order management. Also, underscored adaptability in leveraging technology within resource-constrained environments, showcasing a problem-solving approach
