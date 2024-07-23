@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Computational and Quantitative Methods, Lamar University, 2026 (expected)
+* Non-degree Student, The City College of New York(CCNY)
 * B.S. in Mechatronics Engineering, Rajshahi University of Engineering & Technology(RUET), 2022
 
 Work experience
