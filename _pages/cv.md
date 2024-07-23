@@ -25,10 +25,10 @@ Work experience
   * Duties include: Collecting data from secondary sources, analyzing, and creating visualization
   * Supervisor: Tasneem Salma Islam
 
-* Digital Marketing Officer
-  * Programming Hero
-  * Duties included: Analyzing Metrics, and quality assurance 
-  * Supervisor: Jhankar Mahbub
+* Engineer Intern
+  * Bangla Trac Solutions Ltd, Bangladesh
+  * Training included: Basic R&D of an automated electricity meter, quality assurance of Android and iOS applications, operating 3D printing machine, and quick rental power-plant control system
+  * Supervisor: Mohammed Tanvir Siddique
   
 Skills
 ======
