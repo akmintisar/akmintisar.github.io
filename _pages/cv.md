@@ -35,7 +35,7 @@ Skills
 * Programming Languages: Python, C, C++, STATA, R, SQL
 * Other Tools: MATLAB, Microsoft Toolbox, LaTeX
 
-Publications
+Projects
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
