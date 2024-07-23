@@ -55,5 +55,5 @@ Teaching
 Voluntary Activities
 ======
 * Photographic Society of RUET (PSR)
-*   Former General Secretary
-*     Planned & executed a financial strategy with creative initiatives, which now help beginner photographers and creative minds and support humanitarian causes.
+    Former General Secretary
+      Planned & executed a financial strategy with creative initiatives, which now help beginner photographers and creative minds and support humanitarian causes.
