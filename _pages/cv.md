@@ -17,15 +17,19 @@ Education
 
 Work experience
 ======
-* Head of Content
+* Teaching Assistant (Aug 2024 - Present)
+  * Lamar University, Texas, USA
+  * Course: MATH 2320 - Ordinary Differential Equation
+ 
+* Former Head of Content
   * StorePress, Bangladesh
 
-* Project Analyst
+* Former Project Analyst
   * Aurora Consulting Solutions
   * Duties include: Collecting data from secondary sources, analyzing, and creating visualization
   * Supervisor: Tasneem Salma Islam
 
-* Engineer Intern
+* Former Engineer Intern
   * Bangla Trac Solutions Ltd, Bangladesh
   * Training included: Basic R&D of an automated electricity meter, quality assurance of Android and iOS applications, operating 3D printing machine, and quick rental power-plant control system
   * Supervisor: Mohammed Tanvir Siddique
@@ -51,4 +55,4 @@ Voluntary Activities
   * Co-founder
     * Engineered and implemented a streamlined order processing system, ensuring efficiency and accuracy in customer order management. Also, underscored adaptability in leveraging technology within resource-constrained environments, showcasing a problem-solving approach
    
-[[Full CV]](https://drive.google.com/file/d/1NCArsrUcgn9aUPI5ccLUwCFljCzY9HSK/view?usp=sharing) 
+[[Full CV]](https://drive.google.com/file/d/1BCjKaee2si4NZGsIjqQtIggF9mrSoWx1/view?usp=sharing)
